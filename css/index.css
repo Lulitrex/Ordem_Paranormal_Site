@@ -21,7 +21,7 @@ main section#menu-paranormal {
     height: fit-content;
     display: flex;
     flex-direction: row;
-    background-image: url(../Imagens/fundo-medo.webp);
+    background-image: url(../Imagens/fundo_medo.webp);
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
